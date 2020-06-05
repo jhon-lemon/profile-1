@@ -4,21 +4,25 @@ body {
 font-family: Helvetica;
 font-size: 17px;
 }
+
 h1 {
  color: red;
- font-family: courier; 
+ font-family: courier;
  font-size:32px;
 }
+
 h2 {
  color: rgb(100; 100; 100);
- font-family: courier; 
+ font-family: courier;
  font-size:24px;
  font-weight: lighter;
 }
+
 a {
  text-decoration: none;
  color: red;
 }
+
 a:hover{
 	color: yellow;
 }
@@ -27,6 +31,7 @@ h4 {
 	font-size: 25px;
 	color:rgb(120.126.122);
 }
+
 .container{
 	width: 800px;
 	margin: 40px auto ;
@@ -41,7 +46,7 @@ h4 {
 }
 
 
-.img-circle { 
+.img-circle {
 	border-radius:50%;
 }
 
